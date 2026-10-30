@@ -1,57 +1,21 @@
-<div align="center">
-
 # Hola, soy Moisés 👋
 
-### Desarrollo web · Software · Experimentación
+Convierto ideas de negocio en productos digitales: páginas web, apps, programas y videojuegos.
+Me enfoco en entender qué necesita el cliente y en diseñar una experiencia clara y agradable.
 
-Convierto ideas en proyectos propios, aprendiendo y construyendo en cada etapa.
+### Lo que hago
+- **Análisis de negocio:** escucho la necesidad, estudio a la competencia y la convierto en un plan concreto.
+- **Diseño de experiencia (UX/UI):** pantallas simples, rápidas y con identidad propia.
+- **Productos con inteligencia artificial:** dirijo sistemas que combinan varias IAs para crear y probar productos.
+- **Videojuegos:** diseño mecánicas y practico C# y Unity.
 
-[Perfil](https://github.com/P-Moises) · [Repositorios públicos](https://github.com/P-Moises?tab=repositories)
+### En construcción
+- **Kamak** *(privado)*: mi sistema que recibe un encargo por Telegram, lo planifica, lo construye con varias IAs
+  y lo prueba en un celular real antes de entregarlo.
+- **Herramientas del Multiverso** *(privadas por ahora)*: piezas que trabajan para Kamak, como un probador humano
+  en Android y una guía de diseño profesional.
 
-</div>
-
----
-
-## Sobre mí
-
-Me interesa crear sitios web, aplicaciones y videojuegos que combinen
-funcionalidad, una buena experiencia de uso y una identidad propia.
-
-- 💻 Desarrollo proyectos personales y exploro nuevas herramientas.
-- 🧩 Practico programación con C# y proyectos de consola.
-- 🌱 Sigo aprendiendo sobre desarrollo, diseño y publicación de aplicaciones.
-- 🎮 Me interesa experimentar con mecánicas de juego y experiencias interactivas.
-
-## Tecnología y herramientas
-
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,github&theme=dark"
-         alt="C# y GitHub" />
-  </a>
-</p>
-
-Amplío mis herramientas según las necesidades de cada proyecto.
-
-## Proyectos
-
-Trabajo en proyectos propios cuyo código mantengo privado.
-Publicaré aquí las presentaciones y demostraciones que estén listas
-para compartir.
-
-## Laboratorio público
-
-### 🎮 Juego del Calamar
-
-Repositorio de experimentación con C# que conservo para practicar,
-explorar ideas y desarrollar nuevas versiones.
-
-[Explorar el repositorio →](https://github.com/P-Moises/Juego-del-Calamar)
-
----
-
-<div align="center">
+### Públicos
+- [Juego-del-Calamar](https://github.com/P-Moises/Juego-del-Calamar): experimento en C#.
 
 **Ideas en evolución. Proyectos en construcción. Aprendizaje continuo.**
-
-</div>
