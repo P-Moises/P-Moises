@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-labelledby="t">
+<title id="t">Moisés — Analista de negocio y diseñador de productos. Bolivia.</title>
+<defs>
+<pattern id="g1" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#7FB8DE" stroke-opacity="0.06"/></pattern>
+<pattern id="g2" width="100" height="100" patternUnits="userSpaceOnUse"><path d="M100 0H0V100" fill="none" stroke="#7FB8DE" stroke-opacity="0.12"/></pattern>
+<linearGradient id="scan" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7FB8DE" stop-opacity="0"/><stop offset="1" stop-color="#7FB8DE" stop-opacity="0.18"/></linearGradient>
+<clipPath id="card"><rect width="900" height="340" rx="14"/></clipPath>
+</defs>
+<style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,sans-serif} .mono{font-family:ui-monospace,'Cascadia Mono',Consolas,'SFMono-Regular',Menlo,monospace}
+.draw{stroke-dasharray:400;stroke-dashoffset:400;animation:draw 1.2s cubic-bezier(0.23,1,0.32,1) .2s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+.scan{animation:scan 7s linear infinite}
+@keyframes scan{from{transform:translateY(-80px)}to{transform:translateY(340px)}}
+.ring{transform-box:view-box;transform-origin:710px 100px;animation:spin 20s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.ping{animation:ping 2.4s steps(1) infinite}
+@keyframes ping{50%{opacity:.25}}
+
+.ty{font-family:ui-monospace,'Cascadia Mono',Consolas,'SFMono-Regular',Menlo,monospace;font-size:18px}
+.ph{opacity:0;animation:ph 12.0s linear infinite}
+@keyframes ph{0%{opacity:1}30.42%{opacity:1}33.33%{opacity:0}100%{opacity:0}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.cv0{animation:cv0 12.0s infinite;animation-delay:0s}
+@keyframes cv0{0%{transform:translateX(0);animation-timing-function:steps(21,end)}11.67%{transform:translateX(242.4px)}100%{transform:translateX(242.4px)}}
+.cv1{animation:cv1 12.0s infinite;animation-delay:-8.0s}
+@keyframes cv1{0%{transform:translateX(0);animation-timing-function:steps(18,end)}11.67%{transform:translateX(208.9px)}100%{transform:translateX(208.9px)}}
+.cv2{animation:cv2 12.0s infinite;animation-delay:-4.0s}
+@keyframes cv2{0%{transform:translateX(0);animation-timing-function:steps(27,end)}11.67%{transform:translateX(309.3px)}100%{transform:translateX(309.3px)}}
+@media (prefers-reduced-motion:reduce){.ph{animation:none}.ph0{opacity:1}
+.cv0{animation:none;transform:translateX(2000px)}.cv1{animation:none;transform:translateX(2000px)}.cv2{animation:none;transform:translateX(2000px)}}
+
+@media (prefers-reduced-motion:reduce){.scan,.ring,.ping{animation:none}.draw{animation:none;stroke-dashoffset:0}}
+</style>
+<g clip-path="url(#card)">
+<rect width="900" height="340" fill="#0C1A2A"/>
+<rect width="900" height="340" fill="url(#g1)"/><rect width="900" height="340" fill="url(#g2)"/>
+<rect class="scan" x="0" y="0" width="900" height="80" fill="url(#scan)"/>
+<rect x="20" y="20" width="860" height="300" fill="none" stroke="#7FB8DE" stroke-opacity="0.4"/>
+<text x="60" y="64" class="mono" font-size="12" letter-spacing="2" fill="#6F8BA3">HOJA 01 / 01  ·  ESCALA 1:1</text>
+<text x="56" y="150" class="sans" font-size="80" font-weight="600" letter-spacing="3" fill="#E8F1F8">MOISÉS</text>
+<g stroke="#F2B134" stroke-width="1.2" fill="none">
+<path class="draw" d="M60 172V186M60 179H420M420 172V186"/>
+</g>
+<text x="60" y="204" class="mono" font-size="12" letter-spacing="1" fill="#F2B134">ANALISTA DE NEGOCIO + DISEÑADOR DE PRODUCTOS</text>
+<text x="60" y="236" class="ty" fill="#F2B134">$ </text>
+<g class="ph ph0" style="animation-delay:0s"><text x="82.32" y="236" class="ty" fill="#E8F1F8">levantando requisitos</text><g class="cv0"><rect x="82.32" y="218" width="282" height="25" fill="#0C1A2A"/><rect class="cur" x="83.32" y="221.2" width="9.0" height="17.1" fill="#F2B134"/></g></g>
+<g class="ph ph1" style="animation-delay:-8.0s"><text x="82.32" y="236" class="ty" fill="#E8F1F8">diseñando el flujo</text><g class="cv1"><rect x="82.32" y="218" width="249" height="25" fill="#0C1A2A"/><rect class="cur" x="83.32" y="221.2" width="9.0" height="17.1" fill="#F2B134"/></g></g>
+<g class="ph ph2" style="animation-delay:-4.0s"><text x="82.32" y="236" class="ty" fill="#E8F1F8">probando en un celular real</text><g class="cv2"><rect x="82.32" y="218" width="349" height="25" fill="#0C1A2A"/><rect class="cur" x="83.32" y="221.2" width="9.0" height="17.1" fill="#F2B134"/></g></g>
+<g fill="none" stroke="#7FB8DE">
+<circle cx="710" cy="100" r="44" stroke-opacity="0.5"/>
+<circle class="ring" cx="710" cy="100" r="58" stroke-opacity="0.6" stroke-dasharray="4 8"/>
+<path d="M650 100H770M710 40V160" stroke-opacity="0.35"/>
+</g>
+<circle class="ping" cx="710" cy="100" r="5" fill="#F2B134"/>
+<rect x="560" y="196" width="300" height="104" fill="#0C1A2A" stroke="#7FB8DE" stroke-opacity="0.6"/>
+<line x1="652" y1="196" x2="652" y2="300" stroke="#7FB8DE" stroke-opacity="0.35"/>
+<text x="572" y="213" class="mono" font-size="11" letter-spacing="1" fill="#6F8BA3">PROYECTO</text><text x="664" y="213" class="mono" font-size="13" fill="#E8F1F8">Perfil profesional</text><text x="572" y="239" class="mono" font-size="11" letter-spacing="1" fill="#6F8BA3">AUTOR</text><text x="664" y="239" class="mono" font-size="13" fill="#E8F1F8">Moisés (P-Moises)</text><line x1="560" y1="222" x2="860" y2="222" stroke="#7FB8DE" stroke-opacity="0.35"/><text x="572" y="265" class="mono" font-size="11" letter-spacing="1" fill="#6F8BA3">LUGAR</text><text x="664" y="265" class="mono" font-size="13" fill="#E8F1F8">Bolivia</text><line x1="560" y1="248" x2="860" y2="248" stroke="#7FB8DE" stroke-opacity="0.35"/><text x="572" y="291" class="mono" font-size="11" letter-spacing="1" fill="#6F8BA3">ESTADO</text><text x="664" y="291" class="mono" font-size="13" fill="#E8F1F8">Construyendo Multiverso</text><line x1="560" y1="274" x2="860" y2="274" stroke="#7FB8DE" stroke-opacity="0.35"/>
+</g>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="320" viewBox="0 0 900 320" role="img" aria-labelledby="t">
+<title id="t">Moisés — Analista de negocio y diseñador de productos</title>
+<defs>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#EDEBE4" opacity="0.08"/></pattern>
+<clipPath id="card"><rect width="900" height="320" rx="18"/></clipPath>
+</defs>
+<style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,sans-serif} .mono{font-family:ui-monospace,'Cascadia Mono',Consolas,'SFMono-Regular',Menlo,monospace}
+.rise{animation:rise .7s cubic-bezier(0.23,1,0.32,1) both}
+.d1{animation-delay:.08s} .d2{animation-delay:.16s}
+@keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+.orb{transform-box:view-box;transform-origin:760px 160px;animation:spin linear infinite}
+.o1{animation-duration:16s} .o2{animation-duration:28s;animation-direction:reverse} .o3{animation-duration:44s}
+@keyframes spin{to{transform:rotate(360deg)}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2.8s cubic-bezier(0.23,1,0.32,1) infinite}
+@keyframes pulse{0%{transform:scale(1);opacity:.6}100%{transform:scale(3.2);opacity:0}}
+
+.ty{font-family:ui-monospace,'Cascadia Mono',Consolas,'SFMono-Regular',Menlo,monospace;font-size:22px}
+.ph{opacity:0;animation:ph 12.0s linear infinite}
+@keyframes ph{0%{opacity:1}30.42%{opacity:1}33.33%{opacity:0}100%{opacity:0}}
+.cur{animation:blink 1s steps(1) infinite}
+@keyframes blink{50%{opacity:0}}
+.cv0{animation:cv0 12.0s infinite;animation-delay:0s}
+@keyframes cv0{0%{transform:translateX(0);animation-timing-function:steps(19,end)}11.67%{transform:translateX(267.2px)}100%{transform:translateX(267.2px)}}
+.cv1{animation:cv1 12.0s infinite;animation-delay:-8.0s}
+@keyframes cv1{0%{transform:translateX(0);animation-timing-function:steps(22,end)}11.67%{transform:translateX(308.1px)}100%{transform:translateX(308.1px)}}
+.cv2{animation:cv2 12.0s infinite;animation-delay:-4.0s}
+@keyframes cv2{0%{transform:translateX(0);animation-timing-function:steps(32,end)}11.67%{transform:translateX(444.5px)}100%{transform:translateX(444.5px)}}
+@media (prefers-reduced-motion:reduce){.ph{animation:none}.ph0{opacity:1}
+.cv0{animation:none;transform:translateX(2000px)}.cv1{animation:none;transform:translateX(2000px)}.cv2{animation:none;transform:translateX(2000px)}}
+
+@media (prefers-reduced-motion:reduce){.rise,.orb,.pulse{animation:none}}
+</style>
+<g clip-path="url(#card)">
+<rect width="900" height="320" fill="#0F100D"/>
+<rect width="900" height="320" fill="url(#dots)"/>
+<text x="56" y="66" class="mono rise" font-size="13" letter-spacing="2" fill="#8C8A82">P-MOISES  /  BOLIVIA</text>
+<text x="50" y="172" class="sans rise d1" font-size="96" font-weight="700" letter-spacing="-2" fill="#EDEBE4">Moisés</text>
+<g class="rise d2"><text x="56" y="232" class="ty" fill="#C6F432">> </text>
+<g class="ph ph0" style="animation-delay:0s"><text x="83.28" y="232" class="ty" fill="#EDEBE4">Analista de negocio</text><g class="cv0"><rect x="83.28" y="210" width="307" height="31" fill="#0F100D"/><rect class="cur" x="84.28" y="214.0" width="11.0" height="20.9" fill="#C6F432"/></g></g>
+<g class="ph ph1" style="animation-delay:-8.0s"><text x="83.28" y="232" class="ty" fill="#EDEBE4">Diseñador de productos</text><g class="cv1"><rect x="83.28" y="210" width="348" height="31" fill="#0F100D"/><rect class="cur" x="84.28" y="214.0" width="11.0" height="20.9" fill="#C6F432"/></g></g>
+<g class="ph ph2" style="animation-delay:-4.0s"><text x="83.28" y="232" class="ty" fill="#EDEBE4">Del problema al producto probado</text><g class="cv2"><rect x="83.28" y="210" width="484" height="31" fill="#0F100D"/><rect class="cur" x="84.28" y="214.0" width="11.0" height="20.9" fill="#C6F432"/></g></g></g>
+<line x1="56" y1="268" x2="520" y2="268" stroke="#EDEBE4" stroke-opacity="0.12"/>
+<text x="56" y="292" class="mono" font-size="12" letter-spacing="1.5" fill="#8C8A82">ANÁLISIS · PRODUCTO · UX/UI · PRUEBAS EN DISPOSITIVO REAL</text>
+<g fill="none" stroke="#EDEBE4" stroke-opacity="0.16">
+<circle cx="760" cy="160" r="42"/><circle cx="760" cy="160" r="78" stroke-dasharray="2 6"/><circle cx="760" cy="160" r="114"/>
+</g>
+<g class="orb o1"><circle cx="802" cy="160" r="4" fill="#EDEBE4"/></g>
+<g class="orb o2"><circle cx="760" cy="82" r="5" fill="#C6F432"/></g>
+<g class="orb o3"><circle cx="646" cy="160" r="3.5" fill="#EDEBE4" opacity="0.7"/><circle cx="874" cy="160" r="3" fill="#8C8A82"/></g>
+<circle class="pulse" cx="760" cy="160" r="7" fill="#C6F432"/>
+<circle cx="760" cy="160" r="7" fill="#C6F432"/>
+<text x="760" y="300" text-anchor="middle" class="mono" font-size="11" letter-spacing="3" fill="#8C8A82">MULTIVERSO</text>
+</g>
+</svg>

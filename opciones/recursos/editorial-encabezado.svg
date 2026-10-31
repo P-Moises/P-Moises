@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="340" viewBox="0 0 900 340" role="img" aria-labelledby="t">
+<title id="t">Moisés — Analizo el negocio. Diseño el producto. Lo pruebo en un celular real.</title>
+<defs><path id="ring" d="M760,170 m-84,0 a84,84 0 1,1 168,0 a84,84 0 1,1 -168,0"/></defs>
+<style>
+.sans{font-family:'Segoe UI Variable Display','Segoe UI',-apple-system,BlinkMacSystemFont,'Helvetica Neue',Helvetica,sans-serif} .serif{font-family:'Iowan Old Style','Palatino Linotype',Palatino,'Book Antiqua',Georgia,serif}
+.seal{transform-box:view-box;transform-origin:760px 170px;animation:spin 36s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.rise{animation:rise .7s cubic-bezier(0.23,1,0.32,1) both}
+@keyframes rise{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+.u0{transform-box:fill-box;transform-origin:left center;animation:u0 9.0s infinite}@keyframes u0{0%{transform:scaleX(0)}3.33%{transform:scaleX(0);animation-timing-function:cubic-bezier(0.23,1,0.32,1)}12.22%{transform:scaleX(1)}88%{transform:scaleX(1);opacity:1}96%{opacity:0}100%{transform:scaleX(0);opacity:0}}
+.u1{transform-box:fill-box;transform-origin:left center;animation:u1 9.0s infinite}@keyframes u1{0%{transform:scaleX(0)}13.33%{transform:scaleX(0);animation-timing-function:cubic-bezier(0.23,1,0.32,1)}22.22%{transform:scaleX(1)}88%{transform:scaleX(1);opacity:1}96%{opacity:0}100%{transform:scaleX(0);opacity:0}}
+.u2{transform-box:fill-box;transform-origin:left center;animation:u2 9.0s infinite}@keyframes u2{0%{transform:scaleX(0)}23.33%{transform:scaleX(0);animation-timing-function:cubic-bezier(0.23,1,0.32,1)}32.22%{transform:scaleX(1)}88%{transform:scaleX(1);opacity:1}96%{opacity:0}100%{transform:scaleX(0);opacity:0}}
+
+@media (prefers-reduced-motion:reduce){.seal,.rise{animation:none}.u0{animation:none}.u1{animation:none}.u2{animation:none}}
+</style>
+<rect x="0.5" y="0.5" width="899" height="339" rx="18" fill="#F3EEE4" stroke="#1D1B18" stroke-opacity="0.12"/>
+<text x="58" y="60" class="sans" font-size="12" letter-spacing="3" fill="#7A746B">PERFIL PROFESIONAL  —  BOLIVIA</text>
+<line x1="58" y1="76" x2="560" y2="76" stroke="#1D1B18" stroke-opacity="0.2"/>
+<text x="52" y="160" class="serif rise" font-size="100" letter-spacing="-2" fill="#1D1B18">Moisés</text>
+<rect class="u0" x="58" y="220" width="198" height="3" fill="#B8492A"/><text x="58" y="214" class="serif" font-size="24" fill="#1D1B18">Analizo el negocio.</text><rect class="u1" x="58" y="258" width="198" height="3" fill="#B8492A"/><text x="58" y="252" class="serif" font-size="24" fill="#1D1B18">Diseño el producto.</text><rect class="u2" x="58" y="296" width="303" height="3" fill="#B8492A"/><text x="58" y="290" class="serif" font-size="24" fill="#1D1B18">Lo pruebo en un celular real.</text>
+<g class="seal"><text class="sans" font-size="12.5" letter-spacing="3.2" fill="#1D1B18"><textPath href="#ring" textLength="522" lengthAdjust="spacing">ANALISTA DE NEGOCIO · DISEÑADOR DE PRODUCTOS · </textPath></text></g>
+<circle cx="760" cy="170" r="62" fill="none" stroke="#1D1B18" stroke-opacity="0.25"/>
+<text x="760" y="192" text-anchor="middle" class="serif" font-size="64" font-style="italic" fill="#B8492A">M</text>
+</svg>
