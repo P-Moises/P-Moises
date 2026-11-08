@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="220" viewBox="0 0 800 220" role="img" aria-labelledby="title">
+  <title id="title">Moisés — Innovación digital e inteligencia artificial</title>
+  <rect width="800" height="220" rx="18" fill="#101923"/>
+  <path d="M36 39h728M36 180h728" stroke="#334552"/>
+  <g font-family="system-ui,sans-serif">
+    <text x="42" y="72" fill="#95dfcd" font-size="14" letter-spacing="3">PORTAFOLIO · BOLIVIA</text>
+    <text x="39" y="130" fill="#f4f7fa" font-size="55" font-weight="700">Moisés</text>
+    <text x="42" y="158" fill="#c3ced8" font-size="19">Innovación digital e inteligencia artificial</text>
+  </g>
+  <g fill="none" stroke="#405c67">
+    <circle cx="680" cy="110" r="49"/>
+    <circle cx="680" cy="110" r="34"/>
+    <path d="M621 110h118M680 53v114"/>
+  </g>
+  <circle cx="680" cy="110" r="6" fill="#95dfcd"/>
+  <circle cx="729" cy="110" r="5" fill="#95dfcd">
+    <animateTransform attributeName="transform" type="rotate" from="0 680 110" to="360 680 110" dur="6s" repeatCount="2" fill="freeze"/>
+  </circle>
+  <path d="M42 180h66" stroke="#95dfcd" stroke-width="2" stroke-dasharray="66">
+    <animate attributeName="stroke-dashoffset" from="66" to="0" dur="1.2s" fill="freeze"/>
+  </path>
+</svg>
